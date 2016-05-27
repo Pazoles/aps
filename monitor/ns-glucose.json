@@ -1,112 +1,112 @@
 [
   {
-    "_id": "5748c010fff939b87f53af73",
-    "sgv": 64,
-    "date": 1464385411000,
-    "dateString": "2016-05-27T21:43:31.000Z",
-    "trend": 4,
-    "direction": "Flat",
-    "device": "share2",
-    "type": "sgv",
-    "glucose": 64
-  },
-  {
-    "_id": "5748bdb8fff939b87f53af72",
-    "sgv": 68,
-    "date": 1464384809000,
-    "dateString": "2016-05-27T21:33:29.000Z",
+    "_id": "5748d655fff939b87f53af86",
+    "sgv": 99,
+    "date": 1464391114000,
+    "dateString": "2016-05-27T23:18:34.000Z",
     "trend": 3,
     "direction": "FortyFiveUp",
     "device": "share2",
     "type": "sgv",
-    "glucose": 68
+    "glucose": 99
   },
   {
-    "_id": "5748bc8cfff939b87f53af71",
-    "sgv": 60,
-    "date": 1464384510000,
-    "dateString": "2016-05-27T21:28:30.000Z",
+    "_id": "5748d529fff939b87f53af85",
+    "sgv": 94,
+    "date": 1464390809000,
+    "dateString": "2016-05-27T23:13:29.000Z",
     "trend": 4,
     "direction": "Flat",
     "device": "share2",
     "type": "sgv",
-    "glucose": 60
+    "glucose": 94
   },
   {
-    "_id": "5748bb60fff939b87f53af70",
-    "sgv": 50,
-    "date": 1464384213000,
-    "dateString": "2016-05-27T21:23:33.000Z",
+    "_id": "5748d3fdfff939b87f53af84",
+    "sgv": 92,
+    "date": 1464390509000,
+    "dateString": "2016-05-27T23:08:29.000Z",
     "trend": 4,
     "direction": "Flat",
     "device": "share2",
     "type": "sgv",
-    "glucose": 50
+    "glucose": 92
   },
   {
-    "_id": "5748ba34fff939b87f53af6f",
-    "sgv": 49,
-    "date": 1464383910000,
-    "dateString": "2016-05-27T21:18:30.000Z",
+    "_id": "5748d2d1fff939b87f53af83",
+    "sgv": 85,
+    "date": 1464390210000,
+    "dateString": "2016-05-27T23:03:30.000Z",
     "trend": 4,
     "direction": "Flat",
     "device": "share2",
     "type": "sgv",
-    "glucose": 49
+    "glucose": 85
   },
   {
-    "_id": "5748b908fff939b87f53af6e",
-    "sgv": 54,
-    "date": 1464383609000,
-    "dateString": "2016-05-27T21:13:29.000Z",
+    "_id": "5748d1a5fff939b87f53af82",
+    "sgv": 77,
+    "date": 1464389912000,
+    "dateString": "2016-05-27T22:58:32.000Z",
     "trend": 4,
     "direction": "Flat",
     "device": "share2",
     "type": "sgv",
-    "glucose": 54
+    "glucose": 77
   },
   {
-    "_id": "5748b7dcfff939b87f53af6d",
-    "sgv": 56,
-    "date": 1464383310000,
-    "dateString": "2016-05-27T21:08:30.000Z",
+    "_id": "5748d079fff939b87f53af81",
+    "sgv": 74,
+    "date": 1464389611000,
+    "dateString": "2016-05-27T22:53:31.000Z",
     "trend": 4,
     "direction": "Flat",
     "device": "share2",
     "type": "sgv",
-    "glucose": 56
+    "glucose": 74
   },
   {
-    "_id": "5748b6b0fff939b87f53af6c",
-    "sgv": 56,
-    "date": 1464383012000,
-    "dateString": "2016-05-27T21:03:32.000Z",
+    "_id": "5748cf4dfff939b87f53af80",
+    "sgv": 73,
+    "date": 1464389313000,
+    "dateString": "2016-05-27T22:48:33.000Z",
     "trend": 4,
     "direction": "Flat",
     "device": "share2",
     "type": "sgv",
-    "glucose": 56
+    "glucose": 73
   },
   {
-    "_id": "5748b584fff939b87f53af6b",
-    "sgv": 58,
-    "date": 1464382710000,
-    "dateString": "2016-05-27T20:58:30.000Z",
+    "_id": "5748ce21fff939b87f53af7f",
+    "sgv": 72,
+    "date": 1464389010000,
+    "dateString": "2016-05-27T22:43:30.000Z",
     "trend": 4,
     "direction": "Flat",
     "device": "share2",
     "type": "sgv",
-    "glucose": 58
+    "glucose": 72
   },
   {
-    "_id": "5748b458fff939b87f53af6a",
-    "sgv": 56,
-    "date": 1464382409000,
-    "dateString": "2016-05-27T20:53:29.000Z",
+    "_id": "5748ccf5fff939b87f53af7e",
+    "sgv": 67,
+    "date": 1464388710000,
+    "dateString": "2016-05-27T22:38:30.000Z",
     "trend": 4,
     "direction": "Flat",
     "device": "share2",
     "type": "sgv",
-    "glucose": 56
+    "glucose": 67
+  },
+  {
+    "_id": "5748cbc9fff939b87f53af7d",
+    "sgv": 78,
+    "date": 1464388409000,
+    "dateString": "2016-05-27T22:33:29.000Z",
+    "trend": 4,
+    "direction": "Flat",
+    "device": "share2",
+    "type": "sgv",
+    "glucose": 78
   }
 ]
