@@ -1,84 +1,26 @@
 [
   {
-    "_type": "Sara6E", 
-    "_description": "Sara6E 2016-05-27T00:00:00 head[1], body[49] op[0x6e]", 
-    "timestamp": "2016-05-27T00:00:00", 
-    "_body": "0500000000000000000000000000000000000000000000000000000000004000000000000000000000000000c0000000a8", 
-    "valid_date": "2016-05-26", 
-    "_head": "6e", 
-    "_date": "5a90"
-  }, 
-  {
-    "_type": "ResultDailyTotal", 
-    "_description": "ResultDailyTotal 2016-05-27T00:00:00 head[5], body[3] op[0x07]", 
-    "timestamp": "2016-05-27T00:00:00", 
-    "_body": "003415", 
-    "valid_date": "2016-05-26", 
-    "_head": "0700000000", 
-    "_date": "5a90"
-  }, 
-  {
     "_type": "ClearAlarm", 
-    "_description": "ClearAlarm 2016-05-26T23:52:51 head[2], body[0] op[0x0c]", 
-    "timestamp": "2016-05-26T23:52:51", 
+    "_description": "ClearAlarm 2016-05-27T21:33:59 head[2], body[0] op[0x0c]", 
+    "timestamp": "2016-05-27T21:33:59", 
     "_body": "", 
     "_head": "0c42", 
-    "_date": "7374171a10"
+    "_date": "7b61151b10"
   }, 
   {
     "_type": "AlarmPump", 
-    "_description": "AlarmPump 2016-05-26T23:52:49 head[4], body[0] op[0x06]", 
-    "timestamp": "2016-05-26T23:52:49", 
+    "_description": "AlarmPump 2016-05-27T21:33:56 head[4], body[0] op[0x06]", 
+    "timestamp": "2016-05-27T21:33:56", 
     "_body": "", 
     "_head": "06420282", 
-    "_date": "7174575a10"
+    "_date": "7861555b10"
   }, 
   {
     "_type": "Rewind", 
-    "_description": "Rewind 2016-05-26T23:51:50 head[2], body[0] op[0x21]", 
-    "timestamp": "2016-05-26T23:51:50", 
+    "_description": "Rewind 2016-05-27T21:32:53 head[2], body[0] op[0x21]", 
+    "timestamp": "2016-05-27T21:32:53", 
     "_body": "", 
     "_head": "2100", 
-    "_date": "7273171a10"
-  }, 
-  {
-    "_type": "ClearAlarm", 
-    "_description": "ClearAlarm 2016-05-26T23:51:33 head[2], body[0] op[0x0c]", 
-    "timestamp": "2016-05-26T23:51:33", 
-    "_body": "", 
-    "_head": "0c42", 
-    "_date": "6173171a10"
-  }, 
-  {
-    "_type": "AlarmPump", 
-    "_description": "AlarmPump 2016-05-26T23:51:28 head[4], body[0] op[0x06]", 
-    "timestamp": "2016-05-26T23:51:28", 
-    "_body": "", 
-    "_head": "06420282", 
-    "_date": "5c73575a10"
-  }, 
-  {
-    "_type": "Rewind", 
-    "_description": "Rewind 2016-05-26T23:50:05 head[2], body[0] op[0x21]", 
-    "timestamp": "2016-05-26T23:50:05", 
-    "_body": "", 
-    "_head": "2100", 
-    "_date": "4572171a10"
-  }, 
-  {
-    "_type": "Rewind", 
-    "_description": "Rewind 2016-05-26T22:39:28 head[2], body[0] op[0x21]", 
-    "timestamp": "2016-05-26T22:39:28", 
-    "_body": "", 
-    "_head": "2100", 
-    "_date": "5c67161a10"
-  }, 
-  {
-    "_type": "Rewind", 
-    "_description": "Rewind 2016-05-26T21:52:16 head[2], body[0] op[0x21]", 
-    "timestamp": "2016-05-26T21:52:16", 
-    "_body": "", 
-    "_head": "2100", 
-    "_date": "5074151a10"
+    "_date": "7560151b10"
   }
 ]
