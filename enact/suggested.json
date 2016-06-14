@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":87,"tick":"+0","eventualBG":91,"snoozeBG":91,"mealAssist":"Off: Carbs: 0 Boluses: 0.5 ISF: 60, Target: 95 Deviation: 0 BGI: -0.06","reason":"Eventual BG 91>90 but Avg. Delta 0.00 < Exp. Delta 0.1; setting current basal of 0.3 as temp. Setting neutral temp basal of 0.3U/hr","duration":30,"rate":0.3}
+[{"msg":"Optional feature Auto Sensitivity enabled.  Could not find specified auto-sens: settings/auto-sens.json","error":{}}]
