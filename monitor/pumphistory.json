@@ -2,6 +2,25 @@
   {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-06-14T04:05:02 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-06-14T04:05:02", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "4285044e10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-06-14T04:05:02 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-06-14T04:05:02", 
+    "_body": "00", 
+    "_head": "330b", 
+    "rate": 0.275, 
+    "_date": "4285044e10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-06-14T03:56:50 head[2], body[0] op[0x16]", 
     "timestamp": "2016-06-14T03:56:50", 
     "_body": "", 
@@ -549,41 +568,5 @@
     "_head": "331a", 
     "rate": 0.65, 
     "_date": "7b88004e10"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2016-06-14T00:00:56 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-06-14T00:00:56", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "7880004e10"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-06-14T00:00:56 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-06-14T00:00:56", 
-    "_body": "00", 
-    "_head": "330b", 
-    "rate": 0.275, 
-    "_date": "7880004e10"
-  }, 
-  {
-    "_type": "Model522ResultTotals", 
-    "_description": "Model522ResultTotals 2016-06-14T00:00:00 head[1], body[41] op[0x6d]", 
-    "timestamp": "2016-06-14T00:00:00", 
-    "_body": "05008787870100000388013823025041000f0250410034090014030208580e0201000b0c00e8000000", 
-    "_head": "6d", 
-    "_date": "6d10"
-  }, 
-  {
-    "_type": "ResultDailyTotal", 
-    "_description": "ResultDailyTotal 2016-06-14T00:00:00 head[5], body[0] op[0x07]", 
-    "timestamp": "2016-06-14T00:00:00", 
-    "_body": "", 
-    "valid_date": "2016-06-13", 
-    "_head": "0700000388", 
-    "_date": "6d10"
   }
 ]
